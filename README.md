@@ -1,6 +1,6 @@
 # angular-EventApp
 final project which is designed to event
-
+*Functions:
 Xây dựng trên phiên bản mới nhất, xịn nhất của Angular 6.
 
 Firebase Authentication and Firestore (sử dụng AngularFire Lite🔥)
@@ -22,3 +22,15 @@ Unit Testing with Jasmine & Karma
 End-2–End Testing with Protractor
 
 Thiết kế vừa tối giản mà lại đẹp.
+
+*Install enviroment:
+
+NodeJS: https://nodejs.org/en/
+
+Git: https://git-scm.com/
+
+npm i -g typescript
+
+npm i -g @angular/cli
+
+-g = global
