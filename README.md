@@ -1,5 +1,6 @@
 # angular-EventApp
 final project which is designed to event
+
 Xây dựng trên phiên bản mới nhất, xịn nhất của Angular 6.
 Firebase Authentication and Firestore (sử dụng AngularFire Lite🔥)
 Server Side Rendered (SEO)
